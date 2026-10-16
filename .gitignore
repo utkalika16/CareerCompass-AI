@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+models/*.joblib
+reports/*.pdf
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.deepeval/
+.vscode/

@@ -1,0 +1,19 @@
+{
+  "features": [
+    "Age",
+    "CGPA",
+    "Attendance",
+    "Technical_Skill",
+    "Communication_Skill",
+    "Aptitude_Score",
+    "Projects",
+    "Internships",
+    "Certifications",
+    "Extracurricular",
+    "Coding_Score",
+    "Soft_Skill",
+    "Resume_Score",
+    "Interview_Score"
+  ],
+  "best_model": "Logistic Regression"
+}
